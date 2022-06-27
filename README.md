@@ -13,4 +13,4 @@ https://johnc13b.github.io/portfolio/
 
 #### Screenshot
 
-![image](https://user-images.githubusercontent.com/100248387/159200715-d253fb0a-314e-48d5-90fa-68e169a70f71.png)
+![image](https://user-images.githubusercontent.com/100248387/176051113-f519a525-b34f-478f-83cc-578626e49732.png)
