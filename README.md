@@ -4,8 +4,8 @@ A portfolio to display Experience and Works from both Past and Present. This wil
 
 ## Language
 
-HTML
-CSS
+HTML  
+CSS  
 
 ### Deployed URL
 
